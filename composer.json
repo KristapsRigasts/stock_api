@@ -1,0 +1,5 @@
+{
+  "require": {
+    "finnhub/client": "1.1.8"
+  }
+}
